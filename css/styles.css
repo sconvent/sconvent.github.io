@@ -10962,6 +10962,7 @@ section.resume-section {
   padding-top: 5rem;
   padding-bottom: 5rem;
   max-width: 75rem;
+  page-break-after: always;
 }
 section.resume-section .resume-section-content {
   width: 100%;
@@ -10979,4 +10980,8 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+}
+
+div {
+    page-break-inside: avoid;
 }
