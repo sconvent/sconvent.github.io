@@ -1,2 +1,2 @@
 # sconvent.github.io
-Resume
+Not used anymore. Just redirects to www.convent.dev
